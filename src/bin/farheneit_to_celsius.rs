@@ -1,3 +1,5 @@
+// Goal: Convert temperatures between Fahrenheit and Celsius.
+
 use std::{io, process};
 
 fn parse_temperature(input_temperature: i32) -> i32 {
